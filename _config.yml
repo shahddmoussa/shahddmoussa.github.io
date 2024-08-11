@@ -3,11 +3,11 @@ email:              mayar.hewdy@gmail.com
 description:        Cyber Security Blog
 author:             MayarH
 baseurl:            "/"
-url:                "https://mayarh.github.io"
+url:                "https://mayawh.github.io"
 
 # Social Profiles
-github_username:   0xmayar 
-linkedin_username: 0xmayar
+github_username:   mayawh 
+linkedin_username: mayawh
 
 # Build settings
 markdown:           kramdown
