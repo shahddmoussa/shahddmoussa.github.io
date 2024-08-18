@@ -1,13 +1,13 @@
-title:              MayaWH
-email:              mayar.hewdy@gmail.com
+title:              ShahdMoussa
+email:              shahdmoussa18@gmail.com
 description:        Cyber Security Blog
-author:             MayarH
+author:             ShahdMoussa
 baseurl:            "/"
-url:                "https://mayawh.github.io"
+url:                "https://shahddmoussa.github.io"
 
 # Social Profiles
-github_username:   mayawh 
-linkedin_username: mayawh
+github_username:   shahddmoussa
+linkedin_username: shahdmoussa
 
 # Build settings
 markdown:           kramdown
